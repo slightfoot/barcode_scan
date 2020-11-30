@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "700042665464",
+    "firebase_url": "https://barcode-scanner-example-bda90.firebaseio.com",
+    "project_id": "barcode-scanner-example-bda90",
+    "storage_bucket": "barcode-scanner-example-bda90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700042665464:android:29058557795a714e030a0d",
+        "android_client_info": {
+          "package_name": "com.example.barcode_scan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700042665464-326ln0rkag2usgih3kgd8ibip9759lrv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyOliumidLNbdZZfEvKfSWf0-qHqMxv-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700042665464-326ln0rkag2usgih3kgd8ibip9759lrv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
