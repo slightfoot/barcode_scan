@@ -51,7 +51,7 @@ class _ScannerState extends State<Scanner> with SingleTickerProviderStateMixin {
   @override
   void initState() {
     super.initState();
-    _controller = CameraController(cameras[0], ResolutionPreset.high);
+    _controller = CameraController(cameras[0], ResolutionPreset.medium);
     _controller.initialize().then((_) {
       if (!mounted) {
         return;
